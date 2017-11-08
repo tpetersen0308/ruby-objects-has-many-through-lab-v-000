@@ -7,5 +7,3 @@ class Appointment
     self.doctor.add_appointment(self)
   end
 end
-
-  
